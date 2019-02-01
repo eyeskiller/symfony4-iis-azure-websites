@@ -2,8 +2,8 @@
 
 You simply need override IIS configuration to fit Symfony4 rewrite rules and directories
 
-- First you need to create file `web.config` in root directory of your project and copy there content of [web.config](https://github.com/user/repo/blob/branch/other_file.md)
-- Second, you need to create file `web.config` in `public` directory and copy there content of [web.config](https://github.com/user/repo/blob/branch/other_file.md)
+- First you need to create file `web.config` in root directory of your project and copy there content of [web.config](https://github.com/eyeskiller/symfony4-iss-azure-websites/blob/master/web.config)
+- Second, you need to create file `web.config` in `public` directory and copy there content of [web.config](https://github.com/eyeskiller/symfony4-iss-azure-websites/blob/master/public/web.config)
 
 
 Now, all set.
