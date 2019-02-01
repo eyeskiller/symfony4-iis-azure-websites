@@ -13,7 +13,7 @@ Don't forget to create a deploy file and paste it to your root, which can be set
 `.deployment`
 ```
 [config]
-   command = bash build_azure.sh
+command = bash build_azure.sh
 ```
 
 `build_azure.sh`
